@@ -1,0 +1,29 @@
+# Python
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE/Editor-specific files (optional, add as needed)
+.idea/  # PyCharm/IntelliJ
+.vscode/ # VS Code
+*.swp   # Vim
+
+# Other temporary files and databases
+.coverage
+.mypy_cache/
+.pytest_cache/
+pip-log.txt
+pip-delete-this-arg.txt
+.sqlite
+*.sqlite3
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
